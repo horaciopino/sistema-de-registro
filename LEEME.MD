@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner:
 
-nmp install react
+'''nmp install react'''
